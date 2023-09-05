@@ -15,3 +15,5 @@ I learn a lot of stuff realated to data science skills. This bootcampt has 10 sp
 - Python programing
 - Essential Python for Data Analyst
 - Dashboard
+
+You can find me on LinkedIn https://www.linkedin.com/in/pong-phanu-b7b838248/
